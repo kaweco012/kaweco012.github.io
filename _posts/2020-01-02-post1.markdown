@@ -1,13 +1,7 @@
 ---
 layout: post
-title: post-sample
+title: 첫 글이다 
 date: 2020-01-02 19:20:23 +0900
-category: sample
+category: 잡다한 글
 ---
-# post-sample
-> Hello!
-
-This is code
-```ruby
-print 'hello world'
-```
+집 인데 집에 가고 싶어 
